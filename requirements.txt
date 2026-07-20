@@ -2,7 +2,7 @@ requests_raw>=2.0.2
 colorama>=0.4.6
 requests>=2.31.0
 packaging>=26.2
-beautifulsoup4>=4.12.2
+beautifulsoup4>=4.15.0
 pyfiglet>=1.0.4
 termcolor>=1.1.0
 lxml
